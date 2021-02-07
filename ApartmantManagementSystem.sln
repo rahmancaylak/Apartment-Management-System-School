@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmantManagementSystem", "ApartmantManagementSystem\ApartmantManagementSystem.csproj", "{159D7BE2-E32B-445B-9C4B-59922AAC51D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmentManagementSystem.DataLayer", "ApartmentManagementSystem.DataLayer\ApartmentManagementSystem.DataLayer.csproj", "{6F7EDA1F-083D-4A0E-BAFE-F93947DA9291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159D7BE2-E32B-445B-9C4B-59922AAC51D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159D7BE2-E32B-445B-9C4B-59922AAC51D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159D7BE2-E32B-445B-9C4B-59922AAC51D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159D7BE2-E32B-445B-9C4B-59922AAC51D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7EDA1F-083D-4A0E-BAFE-F93947DA9291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7EDA1F-083D-4A0E-BAFE-F93947DA9291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7EDA1F-083D-4A0E-BAFE-F93947DA9291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7EDA1F-083D-4A0E-BAFE-F93947DA9291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EEE6286-DA79-43BB-9BEC-E867C2A61A40}
+	EndGlobalSection
+EndGlobal
