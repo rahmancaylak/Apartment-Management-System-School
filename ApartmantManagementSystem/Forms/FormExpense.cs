@@ -12,9 +12,9 @@ using System.Windows.Forms;
 
 namespace ApartmantManagementSystem.Forms
 {
-    public partial class Expense : Form
+    public partial class FormExpense : Form
     {
-        public Expense()
+        public FormExpense()
         {
             InitializeComponent();
         }
@@ -50,7 +50,9 @@ namespace ApartmantManagementSystem.Forms
                     if (string.IsNullOrEmpty(TbExpenseID.Text))
                      {
                         var expenseDb = new ExpenseDb();
-                        var expense = new ApartmentManagementSystem.DataLayer.Model.Expense();
+                        var expense = new Expense();
+                    var deneme = new Expense();
+                    
                         expense.Due = Convert.ToInt32(TbDue.Text);
                         expense.HotWater = Convert.ToInt32(TbHotWater.Text);
                         expense.ColdWater = Convert.ToInt32(TbColdWater.Text);
@@ -67,7 +69,7 @@ namespace ApartmantManagementSystem.Forms
                     else
                       {
                         var expenseDb = new ExpenseDb();
-                        var expense = new ApartmentManagementSystem.DataLayer.Model.Expense();
+                        var expense = new Expense();
                         expense.ExpenseID = Convert.ToInt32(TbExpenseID.Text);
                         expense.Due = Convert.ToInt32(TbDue.Text);
                         expense.HotWater = Convert.ToInt32(TbHotWater.Text);

@@ -1,0 +1,16 @@
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\bin\Debug\ApartmantManagementSystem.exe.config
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\bin\Debug\ApartmantManagementSystem.exe
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\bin\Debug\ApartmantManagementSystem.pdb
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\bin\Debug\ApartmentManagementSystem.DataLayer.dll
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\bin\Debug\ApartmentManagementSystem.DataLayer.pdb
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.csprojAssemblyReference.cache
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.Properties.Resources.resources
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.csproj.GenerateResource.cache
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.csproj.CopyComplete
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.exe
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.pdb
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.FormMainMenu.resources
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.Forms.FormFlat.resources
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.Forms.FormFlatExpense.resources
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmantManagementSystem\obj\Debug\ApartmantManagementSystem.Forms.FormExpense.resources

@@ -1,7 +1,7 @@
 ﻿
 namespace ApartmantManagementSystem.Forms
 {
-    partial class Expense
+    partial class FormExpense
     {
         /// <summary>
         /// Required designer variable.

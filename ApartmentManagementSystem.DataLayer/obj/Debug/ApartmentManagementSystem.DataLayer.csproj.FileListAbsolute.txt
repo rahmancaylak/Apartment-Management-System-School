@@ -1,0 +1,6 @@
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmentManagementSystem.DataLayer\bin\Debug\ApartmentManagementSystem.DataLayer.dll
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmentManagementSystem.DataLayer\bin\Debug\ApartmentManagementSystem.DataLayer.pdb
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmentManagementSystem.DataLayer\obj\Debug\ApartmentManagementSystem.DataLayer.csprojAssemblyReference.cache
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmentManagementSystem.DataLayer\obj\Debug\ApartmentManagementSystem.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmentManagementSystem.DataLayer\obj\Debug\ApartmentManagementSystem.DataLayer.dll
+C:\Users\DuaLTR\source\repos\ApartmantManagementSystem\ApartmentManagementSystem.DataLayer\obj\Debug\ApartmentManagementSystem.DataLayer.pdb

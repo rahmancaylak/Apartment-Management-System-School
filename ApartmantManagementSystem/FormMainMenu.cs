@@ -6,8 +6,9 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ApartmentManagementSystem.DataLayer;
 using ApartmentManagementSystem.DataLayer.DBOperations;
+using ApartmentManagementSystem.DataLayer.Model;
+using ApartmentManagementSystem.DataLayer;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 namespace ApartmantManagementSystem
@@ -108,7 +109,7 @@ namespace ApartmantManagementSystem
 
         private void btnExpense_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new Forms.Expense(), sender);
+            OpenChildForm(new Forms.FormExpense(), sender);
         }
 
         private void btnFlatExpense_Click(object sender, EventArgs e)
